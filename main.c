@@ -1,1 +1,4 @@
-pritnf("Hello");
+#include <stdio.h>
+int main(){
+    printf("HEllo\n");
+}
